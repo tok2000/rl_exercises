@@ -7,6 +7,6 @@ The used algorithm is Monte-Carlo learning in an on- and off-policy fashion.
   3. Extra Challenge
   
   
-  ![](best_of_kuck.gif)
+  ![](best_of_luck.gif)
   
-  (Source: https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif)
+  (Source: https://giphy.com/gifs/vadootv-goodluck-allthebest-bestofluck-fzfqtWp1nFEvPtYDS1)
